@@ -1,1 +1,1 @@
-# AML-iris-project
+# Iris-project
